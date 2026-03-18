@@ -29,7 +29,7 @@
 
 - 🚀 Desenvolvedor Front-End em constante evolução
 - 🎓 Graduado em Ciência da Computação (Centro Universitário do Distrito Federal - UDF)
-- 📚 Estudando Python, desenvolvimento web, análise de dados, I.A e aprendizado de máquina  
+- 📚 Estudando pra concursos sobre Python, desenvolvimento web, análise de dados, I.A e aprendizado de máquina  
 - 💡 Apaixonado por resolver problemas através da tecnologia  
 - 🎯 Sempre buscando aprender e aplicar boas práticas no desenvolvimento  
 - 🤝 Aberto a colaborações e novas oportunidades  
@@ -38,9 +38,11 @@
 
 ## 🔭 Foco Atual
 
-- Aprimorando conhecimentos em **Clean Architecture & Microservices**  
+- Aprimorando conhecimentos em **React e desenvolvimento Frontend**  
 - Desenvolvendo aplicações **Mobile com React Native**    
-- Estudando **Novas Linguagens**  
+- Estudando **Novas Linguagens e Python para Data Science e Machine Learning**
+- Explorando tecnologias **Cloud (AWS) e DevOps**
+- Evoluindo em **boas práticas e arquitetura de software**
 
 ---
 
