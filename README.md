@@ -8,6 +8,10 @@
 
 ## 🚀 Tecnologias & Ferramentas
 
+**Backend:**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 **Frontend:**  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -43,6 +47,16 @@
 - Estudando **Novas Linguagens e Python para Data Science e Machine Learning**
 - Explorando tecnologias **Cloud (AWS) e DevOps**
 - Evoluindo em **boas práticas e arquitetura de software**
+
+---
+
+## 📜 Certificações
+
+- ☁️ AWS Cloud Practitioner Essentials  
+- 🧠 Python e Estruturas de Dados (Fundação Bradesco)  
+- 🐧 Linux Essentials  
+- 📊 Excel Intermediário  
+- 💻 Lógica de Programação
 
 ---
 
